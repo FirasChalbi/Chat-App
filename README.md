@@ -1,4 +1,5 @@
 Simple Chat App with React.js and Node.js
+
 This is a simple chat app built with React.js for the frontend and Node.js for the backend. It allows users to create chat rooms and send messages in real time.
 
 Getting Started
